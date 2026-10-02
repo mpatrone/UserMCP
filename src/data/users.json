@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "email": "alice@test.com",
+    "address": "123 Main St",
+    "phone": "555-1234"
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "email": "bob@test.com",
+    "address": "456 Elm St",
+    "phone": "555-5678"
+  },
+  {
+    "id": 3,
+    "name": "Charlie Brown",
+    "email": "charlie@test.com",
+    "address": "123 Oak St",
+    "phone": "555-1234"
+  },
+  {
+    "id": 4,
+    "name": "Manuel Patrone",
+    "email": "po75558@gmail.com",
+    "address": "R Fernando Lopes Graca 3 2Esq",
+    "phone": "918628737"
+  },
+  {
+    "id": 5,
+    "name": "Kyle",
+    "email": "kyle@test.com",
+    "address": "123 Main Street",
+    "phone": "12345678"
+  },
+  {
+    "id": 6,
+    "name": "Manuel",
+    "email": "manuel.ferreira82@gmail.com",
+    "address": "Rua das Flores 45, 3º Dto, 1150-024 Lisboa, Portugal",
+    "phone": "912345678"
+  },
+  {
+    "id": 7,
+    "name": "Sally",
+    "email": "sally.marques97@hotmail.com",
+    "address": "Avenida da Liberdade 210, 4º Esq, 1250-146 Lisboa, Portugal",
+    "phone": "936578421"
+  },
+  {
+    "id": 8,
+    "name": "Jordan Ellis",
+    "email": "jordan.ellis@example.com",
+    "address": "418 Cedarbrook Lane, Westhaven, OR 97000",
+    "phone": "+1-202-555-0147"
+  }
+]
